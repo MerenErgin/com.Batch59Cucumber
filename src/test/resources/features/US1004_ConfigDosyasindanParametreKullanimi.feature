@@ -4,5 +4,6 @@ Feature: US1004 Kullanici parametre ile configuration file'i kullanabilmeli
 
     Given kullanici "amazonUrl" anasayfasinda
     Then kullanici 3 sn bekler
+    # int'leri parametre kabul eder
     And url'in "amazon" icerdigini test eder
     Then sayfayi kapatir
