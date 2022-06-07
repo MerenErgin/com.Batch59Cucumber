@@ -1,5 +1,5 @@
 @tumu
-Feature: Amazon Search
+Feature: US1001 Kullanici Amazon Sayfasinda Arama Ypar
 
   @nutella
   Scenario: TC01 kullanici amazonda Nutella aratir
